@@ -18,7 +18,7 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/progress-block.git
+   git clone https://github.com/IvanFro1ov/test-ozon.git
     ```
 
 2. Откройте проект в браузере, запустив файл index.html
